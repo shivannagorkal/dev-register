@@ -1,11 +1,9 @@
 {
-  "description": "My personal portfolio",
-  "domain": "is-a.dev",
-  "subdomain": "shivannagorkal",
   "owner": {
-    "username": "shivannagorkal"
+    "username": "shivannagorkal",
+    "email": "44304@yenepoya.edu.in"
   },
-  "record": {
+  "records": {
     "CNAME": "shivannagorkal.github.io"
   }
 }
