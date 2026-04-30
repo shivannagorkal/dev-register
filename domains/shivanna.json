@@ -1,0 +1,11 @@
+{
+  "description": "My personal portfolio",
+  "domain": "is-a.dev",
+  "subdomain": "shivannagorkal",
+  "owner": {
+    "username": "shivannagorkal"
+  },
+  "record": {
+    "CNAME": "shivannagorkal.github.io"
+  }
+}
